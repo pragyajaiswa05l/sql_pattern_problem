@@ -1,3 +1,5 @@
+-- Question: Find the top-earning sales rep in each region.
+
 CREATE TABLE sales (
 sale_id SERIAL PRIMARY KEY,
 rep_name VARCHAR(50),
